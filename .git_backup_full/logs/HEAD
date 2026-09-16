@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 975a7ffcdb04973aeed5b70b43dfb04e9bed79aa Angui <anguijathi@gmail.com> 1785890881 +0000	clone: from https://github.com/SICADEVD/ccbw.git
+975a7ffcdb04973aeed5b70b43dfb04e9bed79aa c89c017eaa725538dc6399891bd835eacabe703b Angui <anguijathi@gmail.com> 1785943619 +0000	commit: fix(core): restore composer autoloader, generate app key and update README documentation
+c89c017eaa725538dc6399891bd835eacabe703b be325edc5d39380e19b07e3b6839b28f502fb116 Angui <anguijathi@gmail.com> 1785943810 +0000	commit: fix(core): restore composer autoloader, generate app key and update README documentation
